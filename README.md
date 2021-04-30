@@ -6,7 +6,7 @@
 
 |ON|OFF|
 |:--:|:--:|
-|![ON](simulation/Act1_ON.png)|![OFF](simulation/Act1_OFF.png)|
+|![ON](simulation/Act1_ON.PNG)|![OFF](simulation/Act1_OFF.PNG)|
 
 # Activity 2
 
@@ -14,7 +14,7 @@
 
 |Digital value: 357|Digital value: 785|
 |:--:|:--:|
-|![ON](simulation/ADC_357.png)|![OFF](simulation/ADC_785.png)|
+|![ON](simulation/ADC_357.PNG)|![OFF](simulation/ADC_785.PNG)|
 
 # Activity 3
 
@@ -22,7 +22,7 @@
 
 |ADC value: 357 Duty cycle: 40% |Digital value: 785 Duty cycle: 95%|
 |:--:|:--:|
-|![ON](simulation/PWM_357.png)|![OFF](simulation/PWM_785.png)|
+|![ON](simulation/PWM_357.PNG)|![OFF](simulation/PWM_785.PNG)|
 
 # Activity 4(Complete case study)
 
@@ -30,7 +30,7 @@
 
 | Duty cycle: 40% Temp: 25 |Digital value: 785 Duty cycle: 33|
 |:--:|:--:|
-|![ON](simulation/UART_357.png)|![OFF](simulation/UART_785.png)|
+|![ON](simulation/UART_357.PNG)|![OFF](simulation/UART_785.PNG)|
 
 #### CI and Code Quality
 
