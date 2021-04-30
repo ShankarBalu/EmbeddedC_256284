@@ -1,10 +1,13 @@
-PROJ_NAME = Blinky
+PROJ_NAME = Embedded
 
 BUILD_DIR = Build
 
 # All Source code files
 SRC = project_main.c\
-src/user_utils.c
+src/LED.c\
+src/ADC.c\
+src/PWM.c\
+src/UART.c
 
 # All header file paths
 INC = -I inc
