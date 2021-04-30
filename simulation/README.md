@@ -1,16 +1,7 @@
 # Project In Action
 
-|ON|OFF|
-|:--:|:--:|
-|\image html ON.png||
+### For ADC value of 357
 
-## Code 
-```
-	for(;;)
-	{
-        change_led_state(HIGH);
-		delay_ms(LED_ON_TIME);
-        change_led_state(LOW);
-		delay_ms(LED_OFF_TIME);	
-	}
-```
+![ON](Final.PNG)
+
+The above picture shows the integration of all the modules.
