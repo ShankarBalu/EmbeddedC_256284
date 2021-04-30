@@ -20,7 +20,7 @@
 
 ## PWM is generated appropriately
 
-|ADC value: 357 Duty cycle: 40% |Digital value: 785 Duty cycle: 95%|
+|ADC value: 357 Duty cycle: 40% |ADC value: 785 Duty cycle: 95%|
 |:--:|:--:|
 |![ON](simulation/PWM_357.PNG)|![OFF](simulation/PWM_785.PNG)|
 
@@ -28,7 +28,7 @@
 
 ## Temperature reading is sent through UART
 
-| Duty cycle: 40% Temp: 25 |Digital value: 785 Duty cycle: 33|
+| Duty cycle: 40% Temp: 25 |Duty cycle: 95% Temp: 33|
 |:--:|:--:|
 |![ON](simulation/UART_357.PNG)|![OFF](simulation/UART_785.PNG)|
 
